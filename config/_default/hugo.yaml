@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Résumé Hugo Theme # Website name
+title: Hossein Gorgin pour # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -28,7 +28,7 @@ pagination:
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+ignoreFiles:
 permalinks:
   authors: '/author/:slug/'
 disableAliases: true
