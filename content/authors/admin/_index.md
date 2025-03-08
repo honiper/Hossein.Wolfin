@@ -146,4 +146,6 @@ awards:
 
 ---
 
-I am a skilled software developer proficient in C, C++, C#, and Python, specializing in drone programming. My expertise includes designing algorithms, developing software solutions, and optimizing drone systems for enhanced performance and reliability. Passionate about innovation, I aim to deliver cutting-edge solutions and collaborate effectively on advanced projects..
+Hello! I’m a skilled software developer with a strong command of C, C++, C#, and Python, specializing in the exciting world of drone programming. My expertise lies in designing robust algorithms, developing efficient software solutions, and optimizing drone systems to achieve peak performance and reliability.
+
+With a passion for innovation, I thrive on tackling complex challenges and delivering cutting-edge solutions that push the boundaries of technology. Whether it’s enhancing drone capabilities, streamlining processes, or collaborating on advanced projects, I bring creativity, precision, and a results-driven mindset to every endeavor.
