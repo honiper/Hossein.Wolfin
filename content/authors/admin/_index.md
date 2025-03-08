@@ -117,10 +117,10 @@ skills:
         description: ''
         percent: 60
         icon: 
-      - name: Cats
+      - name: Playing Game
         description: ''
         percent: 100
-        icon: cat
+        icon: 
       - name: Photography
         description: ''
         percent: 80
@@ -128,7 +128,7 @@ skills:
 
 languages:
   - name: English
-    percent: 80
+    percent: 88
 
 
 # Awards.
@@ -136,11 +136,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Avang co. network certificate 
+    url: 
+    date: '2021-11-25'
+    awarder: Avang Co
+    icon: 
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Blockchain Fundamentals
